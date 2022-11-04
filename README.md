@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm Aadarsh
-- I'm a student at NIT-Calicut
+- I'm a CSE student at NIT-Calicut
