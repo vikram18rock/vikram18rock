@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> I'm Aadarsh <br>
-> I'm a CSE student at NIT Calicut (2021-25)
+- I'm Aadarsh
+- I'm a CSE student at NIT Calicut (2021-25)
