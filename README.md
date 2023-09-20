@@ -1,5 +1,5 @@
 
-<img width="100%" align="center" src="https://github.com/vikram18rock/vikram18rock/goku-watching-sunset-dragon-ball-4k-live-wallpaper.mp4" />
+<img width="100%" align="center" src="https://github.com/vikram18rock/vikram18rock/blob/main/goku-watching-sunset-dragon-ball-4k-live-wallpaper.mp4" />
 
 ### Hi there 👋
 ---
